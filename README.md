@@ -17,6 +17,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/brittanychiang.halcyon-vscode" />
   </a> -->
+  Disfrutalo
 </p>
 
 <!-- ![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png) -->
@@ -29,7 +30,7 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Sinergy**
 
-<!-- ## Manual Installation
+<!-- ## Manual Installationee
 
 Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md) -->
 
