@@ -2,7 +2,7 @@
   <img alt="Sinergy Logo" src="icons/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Halcyon Theme for VS Code
+  Sinergy Theme for VS Code
 </h1>
 <p align="center">
   A minimal, dark blue theme for <a href="https://github.com/jefersonqui/Sinergy.git">VS Code</a>.
@@ -85,6 +85,6 @@ Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii
 vsce publish patch/minor/major
 ```
 
-## Shameless Plug
+<!-- ## Shameless Plug
 
-Halcyon is also available for [VS Code](https://halcyon-theme.netlify.com/).
+Halcyon is also available for [VS Code](https://halcyon-theme.netlify.com/). -->
